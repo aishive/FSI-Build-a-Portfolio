@@ -1,8 +1,11 @@
-body {
-    color: rgb(0, 0, 0);
+H1 {
+    color: red;
 }
 
-h1 {
-    background-color: red;
+h2 {
+    color: green;
 }
 
+h3 {
+    color: orange;
+}
